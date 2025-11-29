@@ -73,11 +73,11 @@ Passionate about backend engineering, UI/UX, and delivering high-quality softwar
 
 | **Project** | **Description** |
 |-------------|------------------|
-| **ERP System (Laravel + Blade)** | HR, Inventory, Attendance, Finance modules with RBAC & API integrations |
-| **CRM Application (React + Laravel API)** | Leads, deals, pipeline, notifications & advanced filtering |
-| **E-commerce Backend (Laravel)** | Products, orders, cart, JWT auth, admin dashboard |
+| **ERP System (Laravel + Blade)** | Operration, CRM, HR, Inventory, Attendance, Finance modules with RBAC & API integrations |
+| **TaskManager Application (React + Laravel API)** | Task, Subtask, pipeline, notifications & advanced filtering |
+| **E-commerce Backend (Laravel/Codeigniter/Django)** | Products, orders, cart, JWT auth, admin dashboard |
 | **Django REST API App** | Custom business logic with Redis caching & performant queries |
 | **Node.js Customer Review Module** | Express.js API for reviews & ratings integrated with a frontend app |
-| **React Admin Dashboard** | Responsive dashboard with charts, tables, API handling & state management |
+
 
 ---
