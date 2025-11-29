@@ -10,7 +10,8 @@ Passionate about backend engineering, UI/UX, and delivering high-quality softwar
   <summary>More about me</summary>
 
 - **Name**: Jaffer KV  
-- **From**: India  
+- **From**: India
+- **Location**: Dubai, UAE  
 - **Full Stack Developer | Backend Engineer | API Specialist**  
 - 7+ years of experience in **ERP**, **CRM**, **E-commerce**, and **Custom Web Applications**  
 - Expertise in:
@@ -33,8 +34,6 @@ Passionate about backend engineering, UI/UX, and delivering high-quality softwar
 
 <div style="border: 2px solid #00BFFF; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-      <!-- Backend -->
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=000000" />
       <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&color=000000" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&color=000000" />
@@ -42,20 +41,14 @@ Passionate about backend engineering, UI/UX, and delivering high-quality softwar
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&color=000000" />
       <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&color=000000" />
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&color=000000" />
-
-      <!-- Database -->
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&color=000000" />
       <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&color=000000" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" />
-
-      <!-- Frontend -->
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" />
       <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&color=000000" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=000000" />
       <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" />
-
-      <!-- Tools -->
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" />
